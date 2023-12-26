@@ -934,6 +934,7 @@
   background-position: bottom right;
   background-repeat: no-repeat;
   background-size: 35% auto;
+  border-radius: 50%;
   opacity: 0.5;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
