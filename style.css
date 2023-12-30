@@ -557,7 +557,7 @@
   .elementor-element.elementor-element-c633ff7
   > .elementor-widget-container {
   --e-transform-rotateZ: 3deg;
-  background-color: var(--e-global-color-f5f4663);
+  /* background-color: var(--e-global-color-f5f4663); */
   border-style: solid;
   border-width: 10px 10px 10px 10px;
   border-color: #6a13aa;
@@ -618,7 +618,7 @@
   .elementor-element.elementor-element-27c3a0a
   > .elementor-widget-container {
   --e-transform-rotateZ: 3deg;
-  background-color: #fafafa;
+  /* background-color: #fafafa; */
   border-style: solid;
   border-width: 10px 10px 10px 10px;
   border-color: var(--e-global-color-f5f4663);
