@@ -24,7 +24,7 @@
   .elementor-element.elementor-element-c464a4e
   > .elementor-shape-bottom
   .elementor-shape-fill {
-  fill: #a03f3f;
+  fill: #68d6c4;
 }
 .elementor-9
   .elementor-element.elementor-element-92566bf
@@ -47,7 +47,7 @@
   .elementor-element.elementor-element-1e3f479
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #4651a6;
+  background-color: #6a13aa;
 }
 .elementor-9 .elementor-element.elementor-element-1e3f479 {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -386,7 +386,7 @@
   .elementor-element.elementor-element-04d24ef
   > .elementor-shape-top
   .elementor-shape-fill {
-  fill: #4651a6;
+  fill: #6a13aa;
 }
 .elementor-9 .elementor-element.elementor-element-04d24ef {
   padding: 10em 5em 0em 5em;
@@ -471,7 +471,7 @@
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 1.5px;
-  background-color: #4651a6;
+  background-color: #6a13aa;
   border-style: dotted;
   border-width: 3px 3px 3px 3px;
   border-color: var(--e-global-color-f5f4663);
@@ -560,7 +560,7 @@
   background-color: var(--e-global-color-f5f4663);
   border-style: solid;
   border-width: 10px 10px 10px 10px;
-  border-color: #4651a6;
+  border-color: #6a13aa;
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
 }
 .elementor-9
@@ -576,7 +576,7 @@
   .elementor-element.elementor-element-2748a48
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #a03f3f;
+  background-color: #68d6c4;
 }
 .elementor-9 .elementor-element.elementor-element-2748a48 {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -618,7 +618,7 @@
   .elementor-element.elementor-element-27c3a0a
   > .elementor-widget-container {
   --e-transform-rotateZ: 3deg;
-  background-color: #60a659;
+  background-color: #fafafa;
   border-style: solid;
   border-width: 10px 10px 10px 10px;
   border-color: var(--e-global-color-f5f4663);
@@ -854,7 +854,7 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #4651a6;
+  background-color: #6a13aa;
 }
 .elementor-9
   .elementor-element.elementor-element-bd2b9e9
@@ -925,7 +925,7 @@
   .elementor-element.elementor-element-37bc53b
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #4651a6;
+  background-color: #6a13aa;
 }
 .elementor-9
   .elementor-element.elementor-element-37bc53b
@@ -1361,7 +1361,7 @@
   .elementor-9
     .elementor-element.elementor-element-f4db460
     .elementskit-menu-container {
-    background-color: #4651a6;
+    background-color: #6a13aa;
   }
   .elementor-9
     .elementor-element.elementor-element-f4db460
